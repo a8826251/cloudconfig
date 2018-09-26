@@ -1,6 +1,6 @@
 spring:
   datasource:
-    username: mtps
+    username: root
     driver-class-name: com.mysql.jdbc.Driver
     password: mtps
     url: jdbc:mysql://127.0.0.1:3306/cloud?characterEncoding=utf-8&useSSL=false
