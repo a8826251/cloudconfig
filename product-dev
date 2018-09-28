@@ -1,0 +1,11 @@
+spring:
+  datasource:
+    username: root
+    driver-class-name: com.mysql.jdbc.Driver
+    password: root
+    url: jdbc:mysql://127.0.0.1:3306/cloud?characterEncoding=utf-8&useSSL=false
+  redis:
+    host: 127.0.0.1
+    port: 6379
+message:
+  data: hello
